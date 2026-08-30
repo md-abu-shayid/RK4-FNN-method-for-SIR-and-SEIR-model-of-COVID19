@@ -1,0 +1,1 @@
+# RK4-FNN-method-for-SIR-and-SEIR-model-of-COVID19
